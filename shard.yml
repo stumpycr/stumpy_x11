@@ -1,0 +1,17 @@
+name: stumpy_x11
+version: 0.0.1
+
+authors:
+  - Leon Rische <leon.rische@me.com>
+
+description: |
+  Display a stumpy_core canvas in a X11 window
+
+dependencies:
+  stumpy_core:
+    github: stumpycr/stumpy_core
+
+#   webmock:
+#     github: manastech/webmock.cr
+
+license: MIT
